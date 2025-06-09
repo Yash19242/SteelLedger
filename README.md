@@ -1,5 +1,5 @@
 
-# 🧾 SteelLedger – Tally-Style GST Invoice Generator in Python
+# 🧾 SteelLedger – GST Invoice Generator.
 
 SteelLedger is a command-line billing system designed for brokers, traders, and firms in the India . It helps users generate GST-compliant tax invoices, track payment status, and export professional PDF bills. Built with Python and created for real-world business use.
 
@@ -44,7 +44,7 @@ SteelLedger/
 1. **Clone the repo**
 
 ```bash
-git clone https://github.com/yashsheth/SteelLedger.git
+git clone https://github.com/Yash19242/SteelLedger.git
 cd SteelLedger
 ```
 
@@ -69,7 +69,7 @@ This project was created by [Yash Sheth](https://www.linkedin.com/in/yash-sheth-
 ---
 
 ## 📸 Screenshots
-> Invoice Screenshot- file:///Users/yashsheth/Desktop/SteelLedger/invoices/invoice_MSH_001_2025-26.pdf
+> Invoice Screenshot [file:///Users/yashsheth/Desktop/SteelLedger/invoices/invoice_MSH_001_2025-26.pdf]
 
 ---
 
